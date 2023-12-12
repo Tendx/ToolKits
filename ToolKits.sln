@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Klick", "Klick\Klick.csproj", "{A5A885D4-1EAD-4D62-A004-FC4F9B4B1508}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RDBan", "RDBan\RDBan.csproj", "{C1F4E06D-0955-4F32-AA68-3DD1EACC2430}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5A885D4-1EAD-4D62-A004-FC4F9B4B1508}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5A885D4-1EAD-4D62-A004-FC4F9B4B1508}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5A885D4-1EAD-4D62-A004-FC4F9B4B1508}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5A885D4-1EAD-4D62-A004-FC4F9B4B1508}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1F4E06D-0955-4F32-AA68-3DD1EACC2430}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1F4E06D-0955-4F32-AA68-3DD1EACC2430}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1F4E06D-0955-4F32-AA68-3DD1EACC2430}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1F4E06D-0955-4F32-AA68-3DD1EACC2430}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAB35531-34E3-4688-8F29-2A544D30F78E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RDBan": {
+      "commandName": "Project",
+      "commandLineArgs": "administrators"
+    }
+  }
+}
